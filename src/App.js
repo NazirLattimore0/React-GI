@@ -13,7 +13,7 @@ class App extends React.Component {
           dob: "01/14/2003",
         },
         {
-          name: "Micheal Jackson",
+          name: "Aaron Rodgers",
           number: "980-254-7473",
           dob: "04/12/2000",
         },
